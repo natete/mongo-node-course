@@ -1,0 +1,16 @@
+{
+  "name": "10gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "generator-requionic <reqionic@gmail.com> (https://github.com/natete/generator-reqionic)",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "consolidate": "^0.14.1",
+    "nunjucks": "^2.4.2"
+  }
+}
